@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=정진!)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=until%20full%20stack!&height=150&fontSize=60&desc=정진!&descAlignY=75&descAlign=60)
 
-####  :wave: Welcome my github :wave:
+####  :wave: Welcome my github:wave:
 
 <br/>
 <br/>

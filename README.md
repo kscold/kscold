@@ -53,6 +53,6 @@
 
 <br/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=JupyterNotebook&layout=compact)](https://github.com/kscold/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=Jupyter_Notebook&layout=compact)](https://github.com/kscold/github-readme-stats)
 
 </div>

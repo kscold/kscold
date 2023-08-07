@@ -49,10 +49,10 @@
 
 <br/>
 
-![kscold's Github Stats](https://github-readme-stats.vercel.app/api?username=kscold&hide=Jupyter Notebook&show_icons=true)
+![kscold's Github Stats](https://github-readme-stats.vercel.app/api?username=kscold&show_icons=true)
 
 <br/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&layout=compact)](https://github.com/kscold/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=JupyterNotebook&layout=compact)](https://github.com/kscold/github-readme-stats)
 
 </div>

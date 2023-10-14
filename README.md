@@ -73,11 +73,9 @@
 
 ####  :call_me_hand:
 
-<br/>
-
 <a href="https://www.instagram.com/ks_cold/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/ks_cold/"
+        src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://instagram.com/ks_cold/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -85,7 +83,6 @@
 <br/>
 
 #### :pencil2: Study log
-
 <br/>
 
 ![kscold's Github Stats](https://github-readme-stats.vercel.app/api?username=kscold&show_icons=true)
@@ -95,6 +92,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=jupyter%20notebook&layout=compact)](https://github.com/kscold/github-readme-stats)
 
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sc4cafe)](https://solved.ac/sc4cafe/)
 
 </div>

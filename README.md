@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 
-####   ForntEnd Libary
+####   ForntEnd Library
 
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
-####   BackEnd Libary
+####   BackEnd Library
 
 <img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=white"> 
 <img src="https://img.shields.io/badge/experss-000000?style=for-the-badge&logo=express&logoColor=white"> 

@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Until%20become%20a%20real%20developer&height=150&fontSize=60&desc=정진!&descAlignY=75&descAlign=60)
 
-####  :wave: Welcome my github:wave:
+####  👏 Welcome my github 👋
 
 <br/>
 

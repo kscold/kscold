@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Until%20become%20a%20real%20developer&height=150&fontSize=60&desc=정진!&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Until%20become%20a%20real%20developer&height=150&fontSize=60&desc=러닝커브를%20즐기는%20개발자!&descAlignY=75&descAlign=60)
 
 ####  👏 Welcome my github 👋
 
@@ -90,6 +90,10 @@
 <br/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=jupyter%20notebook&layout=compact)](https://github.com/kscold/github-readme-stats)
+
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sc4cafe)](https://solved.ac/sc4cafe/)
 
 <br/>
 

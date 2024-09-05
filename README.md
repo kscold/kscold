@@ -38,7 +38,9 @@
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" style="height: 30px; margin: 5px;">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="height: 30px; margin: 5px;">
+      <br>
+      <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" style="height: 30px; margin: 5px;">
@@ -47,15 +49,17 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" style="height: 30px; margin: 5px;">
       <br>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" style="height: 30px; margin: 5px;">
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" style="height: 30px; margin: 5px;">
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/typeform-262627?style=for-the-badge&logo=typeform&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" style="height: 30px; margin: 5px;">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" style="height: 30px; margin: 5px;">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="height: 30px; margin: 5px;">
+      <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 30px; margin: 5px;">
     </td>
   </tr>
   <tr>

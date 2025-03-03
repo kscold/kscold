@@ -124,12 +124,6 @@
 
 ![kscold's Github Stats](https://github-readme-stats.vercel.app/api?username=kscold&show_icons=true)
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=jupyter%20notebook&layout=compact)](https://github.com/kscold/github-readme-stats)
-
-<br/>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sc4cafe)](https://solved.ac/sc4cafe/)
 
 <br/>

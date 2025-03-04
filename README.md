@@ -126,7 +126,8 @@
 
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&hide=jupyter%20notebook&layout=compact)](https://github.com/kscold/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&layout=compact&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 

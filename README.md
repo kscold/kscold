@@ -122,12 +122,11 @@
 <br/>
 <br/>
 
-![kscold's Github Stats](https://github-readme-stats.vercel.app/api?username=kscold&show_icons=true)
-
+<img style="height:180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kscold&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="github stats" />
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kscold&layout=compact&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kscold&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=nord)
 
 <br/>
 
